@@ -1,0 +1,12 @@
+{
+  "topic": "Beating the Compiler",
+  "language": "Java",
+  "extension": ".java",
+  "category": "java",
+  "timestamp_utc": "2026-10-05T16:37:27.167344+00:00",
+  "source_file": "main.java",
+  "files": [
+    "core.java",
+    "main.java"
+  ]
+}
