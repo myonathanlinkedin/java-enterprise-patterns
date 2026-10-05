@@ -1,0 +1,12 @@
+{
+  "topic": "Protocol-aware recovery for consensus-based storage (2018)",
+  "language": "Java",
+  "extension": ".java",
+  "category": "java",
+  "timestamp_utc": "2026-10-05T09:29:50.066477+00:00",
+  "source_file": "types.java",
+  "files": [
+    "types.java",
+    "engine.java"
+  ]
+}
