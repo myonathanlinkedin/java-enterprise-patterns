@@ -1,0 +1,13 @@
+{
+  "topic": "A Remote Function Call Will Never Really Be Local: Rethinking Distributed Computing #4",
+  "language": "Java",
+  "extension": ".java",
+  "category": "java",
+  "timestamp_utc": "2026-10-05T19:05:14.696196+00:00",
+  "source_file": "main.java",
+  "files": [
+    "types.java",
+    "engine.java",
+    "main.java"
+  ]
+}
