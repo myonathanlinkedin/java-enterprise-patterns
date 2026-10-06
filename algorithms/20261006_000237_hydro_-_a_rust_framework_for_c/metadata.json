@@ -1,0 +1,16 @@
+{
+  "topic": "Hydro - A Rust framework for correct and performant distributed systems",
+  "language": "Java",
+  "extension": ".java",
+  "category": "java",
+  "timestamp_utc": "2026-10-06T00:02:37.806459+00:00",
+  "source_file": "main.java",
+  "files": [
+    "types.java",
+    "engine.java",
+    "main.java",
+    "HydroNode.java",
+    "HydroEngine.java",
+    "HydroType.java"
+  ]
+}
