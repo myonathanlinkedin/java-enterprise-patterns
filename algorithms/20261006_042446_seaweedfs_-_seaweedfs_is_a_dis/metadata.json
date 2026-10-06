@@ -1,0 +1,12 @@
+{
+  "topic": "Seaweedfs - SeaweedFS is a distributed storage system for object storage (S3), file",
+  "language": "Java",
+  "extension": ".java",
+  "category": "java",
+  "timestamp_utc": "2026-10-06T04:24:46.689589+00:00",
+  "source_file": "main.java",
+  "files": [
+    "core.java",
+    "main.java"
+  ]
+}
