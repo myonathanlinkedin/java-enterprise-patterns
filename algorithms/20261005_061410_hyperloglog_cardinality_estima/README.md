@@ -1,45 +1,27 @@
-# HyperLogLog Cardinality Estimation Algorithm
+# HyperLogLog Cardinality Estimation Algorithm in Java
 
-> Production-grade, mathematically verified Java implementation of **HyperLogLog Cardinality Estimation Algorithm**.  
-> Developed and maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
+A clean, dependency-free **Java** reference implementation of **HyperLogLog Cardinality Estimation Algorithm**, focused on core algorithmic mechanics, clear memory layout, and test verification.
 
----
+## Implementation Details
 
-## 📐 Mathematical & Architectural Overview
-This module implements the **HyperLogLog Cardinality Estimation Algorithm** algorithm and data structure using modern, idiomatic **Java** with zero external dependencies.
+* **Category**: `Algorithmic Engineering`
+* **Data Structure Foundation**: `Standard Memory Primitives`
+* **Allocation Pattern**: Zero external heap dependencies; designed as a pure in-memory algorithmic component.
+* **Invariant Integrity**: Encapsulates state within isolated data structures, keeping logic self-contained.
 
-### 🔍 Design Characteristics:
-* **Memory Safety & Layout**: Optimized memory allocation and cache locality for maximum runtime efficiency.
-* **Deterministic Guarantees**: Enforces strict invariant fulfillment across state transitions.
-* **Thread Safety**: Formally resilient against race conditions and concurrency hazards or deterministically isolated.
+## Performance Characteristics
 
----
+* **Time**: `O(N)` average, with `O(1)` best-case response under ideal conditions.
+* **Space**: `O(N)` memory usage.
 
-## 📊 Big-O Complexity Analysis
+## Test Harness
 
-| Dimension | Complexity | Performance Profile |
-|---|:---:|---|
-| **Time (Best Case)** | $\mathcal{O}(1)$ to $\mathcal{O}(\log N)$ | Dependent on access patterns and cache hit ratio. |
-| **Time (Average / Worst)** | $\mathcal{O}(N)$ to $\mathcal{O}(N \log N)$ | Asymptotically optimal for generalized workloads. |
-| **Space (Memory Footprint)** | $\mathcal{O}(1)$ to $\mathcal{O}(N)$ | Minimal heap allocation overhead. |
-
----
-
-## 🧪 Verification & Unit Test Driver
-The `main.java` file includes a self-contained test assertion suite validating:
-1. **Happy Path**: Standard operational workflows with verified inputs.
-2. **Edge Cases**: Boundary handling (empty inputs, extreme values, numeric limits).
-3. **Invariants Checking**: State consistency verification across structural mutations.
-
----
-
-## ⚡ How to Run & Verify Locally
+To compile and execute the test assertions for this module:
 
 ```bash
-# Execute test runner for this module
-javac main.java && java Main
+javac main.java && java main
 ```
 
 ---
 
-<sub>🔬 *Artifact generated & verified by Universal Polyglot Autonomous Engineering Engine • 2026-10-05 06:14:10 UTC*</sub>
+*Part of the Polyglot Systems Lab • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

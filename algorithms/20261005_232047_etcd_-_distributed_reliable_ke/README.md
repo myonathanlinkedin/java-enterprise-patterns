@@ -1,20 +1,20 @@
 # Etcd - Distributed reliable key-value store for the most critical data of a distributed (Java)
 
-> Modern **Java** reference architecture for **Etcd - Distributed reliable key-value store for the most critical data of a distributed**. Engineered for rigorous algorithmic correctness, high throughput, and bounded memory utilization.
+> Core **Java** implementation for **Etcd - Distributed reliable key-value store for the most critical data of a distributed**, structured for computational clarity, explicit data structures, and deterministic unit test coverage.
 
 ## Overview & Mechanics
 
 The implementation focuses on the core mathematical properties of **Etcd - Distributed reliable key-value store for the most critical data of a distributed**:
 * **Data Organization**: Built upon `Standard Memory Primitives` to ensure predictable traversal and storage overhead.
-* **Safety Invariants**: Zero superfluous dynamic allocations; structured for mechanical sympathy with the host runtime.
-* **Execution Guarantees**: Designed with reentrancy and thread isolation in mind, preventing data races under parallel workloads.
+* **Safety Invariants**: Zero external heap dependencies; designed as a pure in-memory algorithmic component.
+* **Execution Guarantees**: Encapsulates state within isolated data structures, keeping logic self-contained.
 
 ## Complexity Profile
 
 * **Time Complexity**:
-  * Fast Path (Best): `$O(1)$`
-  * Generalized (Avg / Worst): `$O(N)$`
-* **Space Footprint**: `$O(N)$` resident heap / stack overhead.
+  * Fast Path (Best): `O(1)`
+  * Generalized (Avg / Worst): `O(N)`
+* **Space Footprint**: `O(N)` resident heap / stack overhead.
 
 ## Verification & Test Scenarios
 

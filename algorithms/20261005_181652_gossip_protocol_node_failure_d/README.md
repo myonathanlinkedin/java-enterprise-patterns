@@ -1,20 +1,20 @@
 # Gossip Protocol Node Failure Detector (Java)
 
-> Production-ready implementation of the **Gossip Protocol Node Failure Detector** algorithm in **Java**, adhering to idiomatic design patterns, cache-friendly data layouts, and comprehensive test assertions.
+> An in-memory reference implementation of **Gossip Protocol Node Failure Detector** in **Java**, adhering to standard library idioms, clean data structures, and assertion test suites.
 
 ## Overview & Mechanics
 
 The implementation focuses on the core mathematical properties of **Gossip Protocol Node Failure Detector**:
 * **Data Organization**: Built upon `Standard Memory Primitives` to ensure predictable traversal and storage overhead.
-* **Safety Invariants**: Zero superfluous dynamic allocations; structured for mechanical sympathy with the host runtime.
-* **Execution Guarantees**: Designed with reentrancy and thread isolation in mind, preventing data races under parallel workloads.
+* **Safety Invariants**: Zero external heap dependencies; designed as a pure in-memory algorithmic component.
+* **Execution Guarantees**: Encapsulates state within isolated data structures, keeping logic self-contained.
 
 ## Complexity Profile
 
 * **Time Complexity**:
-  * Fast Path (Best): `$O(1)$`
-  * Generalized (Avg / Worst): `$O(N)$`
-* **Space Footprint**: `$O(N)$` resident heap / stack overhead.
+  * Fast Path (Best): `O(1)`
+  * Generalized (Avg / Worst): `O(N)`
+* **Space Footprint**: `O(N)` resident heap / stack overhead.
 
 ## Verification & Test Scenarios
 
@@ -30,4 +30,4 @@ javac main.java && java main
 
 ---
 
-*Authored & verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Systems Engineering Portfolio*
+*Reference implementation verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

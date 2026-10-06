@@ -1,6 +1,6 @@
 # Seaweedfs - SeaweedFS is a distributed storage system for object storage (S3), file
 
-Modern **Java** reference architecture for **Seaweedfs - SeaweedFS is a distributed storage system for object storage (S3), file**. Engineered for rigorous algorithmic correctness, high throughput, and bounded memory utilization.
+Core **Java** implementation for **Seaweedfs - SeaweedFS is a distributed storage system for object storage (S3), file**, structured for computational clarity, explicit data structures, and deterministic unit test coverage.
 
 ---
 
@@ -9,16 +9,16 @@ Modern **Java** reference architecture for **Seaweedfs - SeaweedFS is a distribu
 This module organizes `Seaweedfs - SeaweedFS is a distributed storage system for object storage (S3), file` into an isolated, self-contained unit:
 * **Domain Focus**: `Graph Topology & Traversal`
 * **Primary Primitives**: `Adjacency List & Priority Heap`
-* **Memory Strategy**: Contiguous memory layouts are favored over scattered heap allocations for optimal traversal speed.
-* **Correctness Model**: Designed with reentrancy and thread isolation in mind, preventing data races under parallel workloads.
+* **Memory Strategy**: Contiguous memory layouts and standard collections are favored for straightforward iteration and access.
+* **Correctness Model**: Encapsulates state within isolated data structures, keeping logic self-contained.
 
 ### Asymptotic Complexity
 
 | Metric | Bound | Characteristics |
 | :--- | :---: | :--- |
-| **Best Case Time** | `$O(V + E)$` | Optimized fast-path execution |
-| **Average / Worst Time** | `$O((V + E) \log V)$` | Deterministic upper bound for generalized workloads |
-| **Space Complexity** | `$O(V + E)$` | Strict bounds without unconstrained heap growth |
+| **Best Case Time** | `O(V + E)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O((V + E) log V)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(V + E)` | Strict bounds without unconstrained heap growth |
 
 ---
 

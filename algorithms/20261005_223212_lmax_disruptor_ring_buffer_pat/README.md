@@ -1,12 +1,12 @@
 # LMAX Disruptor Ring Buffer Pattern
 
-Production-ready implementation of the **LMAX Disruptor Ring Buffer Pattern** algorithm in **Java**, adhering to idiomatic design patterns, cache-friendly data layouts, and comprehensive test assertions.
+An in-memory reference implementation of **LMAX Disruptor Ring Buffer Pattern** in **Java**, adhering to standard library idioms, clean data structures, and assertion test suites.
 
 ### Core Highlights
 * **Language & Standard**: Modern `Java` standard library conventions.
 * **Architecture Pattern**: Designed for `Low-Latency Systems & Memory Layout` using `Contiguous Memory Buffer & Ring Pointers`.
-* **Runtime Overhead**: Contiguous memory layouts are favored over scattered heap allocations for optimal traversal speed.
-* **Concurrency & Safety**: Deterministic behavior across all execution cycles, resilient against asynchronous edge conditions.
+* **Runtime Overhead**: Contiguous memory layouts and standard collections are favored for straightforward iteration and access.
+* **Concurrency & Safety**: Execution behavior is validated against nominal workflows and boundary edge cases.
 
 ---
 
@@ -14,9 +14,9 @@ Production-ready implementation of the **LMAX Disruptor Ring Buffer Pattern** al
 
 | Dimension | Bound |
 | :--- | :--- |
-| **Time (Best Case)** | `$O(1)$` |
-| **Time (Worst Case)** | `$O(1) amortized$` |
-| **Auxiliary Space** | `$O(N) bounded$` |
+| **Time (Best Case)** | `O(1)` |
+| **Time (Worst Case)** | `O(1) amortized` |
+| **Auxiliary Space** | `O(N) bounded` |
 
 ---
 
@@ -30,4 +30,4 @@ javac main.java && java main
 
 ---
 
-*Authored & verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Systems Engineering Portfolio*
+*Reference implementation verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*
