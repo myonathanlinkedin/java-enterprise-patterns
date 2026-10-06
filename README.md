@@ -2,7 +2,7 @@
 > Production concurrency structures, non-blocking queues, and enterprise design implementations. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/java-enterprise-patterns/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-19%20Modules-blue?style=for-the-badge&logo=java)](https://github.com/myonathanlinkedin/java-enterprise-patterns)
+[![Total Modules](https://img.shields.io/badge/Algorithms-20%20Modules-blue?style=for-the-badge&logo=java)](https://github.com/myonathanlinkedin/java-enterprise-patterns)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/java-enterprise-patterns)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -32,6 +32,7 @@
 | 17 | **Actor Model Concurrency Engine with Mailbox Processing** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_155149_actor_model_concurrency_engine/core.java) |
 | 18 | **LMAX Disruptor Ring Buffer Pattern** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_171615_lmax_disruptor_ring_buffer_pat/core.java) |
 | 19 | **Sliding Window Rate Limiter with Distributed Token Bucket** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_190104_sliding_window_rate_limiter_wi/types.java) |
+| 20 | **Bulletproof Idempotency in Distributed Payment Systems: Beyond the Client Header** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_233802_bulletproof_idempotency_in_dis/core.java) |
 
 ---
 
@@ -60,4 +61,4 @@ mvn test
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 19:01 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 23:38 UTC*</sub>
