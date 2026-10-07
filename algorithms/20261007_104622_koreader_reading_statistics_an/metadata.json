@@ -1,0 +1,13 @@
+{
+  "topic": "Koreader reading statistics and highlights sync for spaced repetition",
+  "language": "Java",
+  "extension": ".java",
+  "category": "java",
+  "timestamp_utc": "2026-10-07T10:46:22.144771+00:00",
+  "source_file": "main.java",
+  "files": [
+    "types.java",
+    "engine.java",
+    "main.java"
+  ]
+}
