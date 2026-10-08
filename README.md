@@ -2,7 +2,7 @@
 > Production concurrency structures, non-blocking queues, and enterprise design implementations. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/java-enterprise-patterns/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-25%20Modules-blue?style=for-the-badge&logo=java)](https://github.com/myonathanlinkedin/java-enterprise-patterns)
+[![Total Modules](https://img.shields.io/badge/Algorithms-26%20Modules-blue?style=for-the-badge&logo=java)](https://github.com/myonathanlinkedin/java-enterprise-patterns)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/java-enterprise-patterns)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -38,6 +38,7 @@
 | 23 | **Conflict-free Replicated Data Type (CRDT) PN-Counter** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_131227_conflict-free_replicated_data/core.java) |
 | 24 | **Java - All Algorithms implemented in Java** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_150225_java_-_all_algorithms_implemen/types.java) |
 | 25 | **52 Possibilities. 5 Cards. No Guessing. Here’s the Algorithm.** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_081511_52_possibilities__5_cards__no/core.java) |
+| 26 | **Lamport Logical Timestamp Synchronization Engine** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_103735_lamport_logical_timestamp_sync/types.java) |
 
 ---
 
@@ -66,4 +67,4 @@ mvn test
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-08 08:15 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-08 10:37 UTC*</sub>
