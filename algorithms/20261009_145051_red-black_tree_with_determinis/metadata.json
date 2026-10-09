@@ -1,0 +1,13 @@
+{
+  "topic": "Red-Black Tree with Deterministic Balance Assertions",
+  "language": "Java",
+  "extension": ".java",
+  "category": "java",
+  "timestamp_utc": "2026-10-09T14:50:51.242673+00:00",
+  "source_file": "main.java",
+  "files": [
+    "types.java",
+    "engine.java",
+    "main.java"
+  ]
+}

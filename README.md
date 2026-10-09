@@ -2,7 +2,7 @@
 > Production concurrency structures, non-blocking queues, and enterprise design implementations. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/java-enterprise-patterns/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-15%20Modules-blue?style=for-the-badge&logo=java)](https://github.com/myonathanlinkedin/java-enterprise-patterns)
+[![Total Modules](https://img.shields.io/badge/Algorithms-16%20Modules-blue?style=for-the-badge&logo=java)](https://github.com/myonathanlinkedin/java-enterprise-patterns)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/java-enterprise-patterns)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -28,6 +28,7 @@
 | 13 | **Quantitative Verification of Infinite-State Networks** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_045702_quantitative_verification_of_i/core.java) |
 | 14 | **HyperLogLog Cardinality Estimation Algorithm** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_130207_hyperloglog_cardinality_estima/types.java) |
 | 15 | **Vector Clock Distributed Event Ordering Mechanism** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_133554_vector_clock_distributed_event/core.java) |
+| 16 | **Red-Black Tree with Deterministic Balance Assertions** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_145051_red-black_tree_with_determinis/types.java) |
 
 ---
 
@@ -56,4 +57,4 @@ mvn test
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-09 13:36 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-09 14:51 UTC*</sub>
