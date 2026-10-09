@@ -1,0 +1,13 @@
+{
+  "topic": "Vector Clock Distributed Event Ordering Mechanism",
+  "language": "Java",
+  "extension": ".java",
+  "category": "java",
+  "timestamp_utc": "2026-10-09T23:07:21.853920+00:00",
+  "source_file": "main.java",
+  "files": [
+    "types.java",
+    "engine.java",
+    "main.java"
+  ]
+}
