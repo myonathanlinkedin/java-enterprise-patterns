@@ -1,0 +1,12 @@
+{
+  "topic": "Conflict-free Replicated Data Type (CRDT) PN-Counter",
+  "language": "Java",
+  "extension": ".java",
+  "category": "java",
+  "timestamp_utc": "2026-10-08T12:02:35.701753+00:00",
+  "source_file": "main.java",
+  "files": [
+    "core.java",
+    "main.java"
+  ]
+}
