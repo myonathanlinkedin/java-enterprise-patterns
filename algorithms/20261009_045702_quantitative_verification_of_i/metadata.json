@@ -1,0 +1,12 @@
+{
+  "topic": "Quantitative Verification of Infinite-State Networks",
+  "language": "Java",
+  "extension": ".java",
+  "category": "java",
+  "timestamp_utc": "2026-10-09T04:57:02.989341+00:00",
+  "source_file": "main.java",
+  "files": [
+    "core.java",
+    "main.java"
+  ]
+}

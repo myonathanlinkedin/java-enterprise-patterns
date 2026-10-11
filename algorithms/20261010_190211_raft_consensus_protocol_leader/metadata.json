@@ -1,0 +1,12 @@
+{
+  "topic": "Raft Consensus Protocol Leader Election State Engine",
+  "language": "Java",
+  "extension": ".java",
+  "category": "java",
+  "timestamp_utc": "2026-10-10T19:02:11.669345+00:00",
+  "source_file": "main.java",
+  "files": [
+    "core.java",
+    "main.java"
+  ]
+}
