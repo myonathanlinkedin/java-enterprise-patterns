@@ -2,7 +2,7 @@
 > Production concurrency structures, non-blocking queues, and enterprise design implementations. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/java-enterprise-patterns/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-34%20Modules-blue?style=for-the-badge&logo=java)](https://github.com/myonathanlinkedin/java-enterprise-patterns)
+[![Total Modules](https://img.shields.io/badge/Algorithms-35%20Modules-blue?style=for-the-badge&logo=java)](https://github.com/myonathanlinkedin/java-enterprise-patterns)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/java-enterprise-patterns)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -28,33 +28,34 @@
 | 5 | **Singular Value Decomposition (SVD) for Low-Rank Approximation** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_133240_singular_value_decomposition/core.java) |
 | 6 | **Actor Model Concurrency Engine with Mailbox Processing** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_155149_actor_model_concurrency_engine/core.java) |
 | 7 | **LMAX Disruptor Ring Buffer Pattern** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_171615_lmax_disruptor_ring_buffer_pat/core.java) |
-| 8 | **Sliding Window Rate Limiter with Distributed Token Bucket** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_190104_sliding_window_rate_limiter_wi/engine.java) |
+| 8 | **Sliding Window Rate Limiter with Distributed Token Bucket** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_190104_sliding_window_rate_limiter_wi/types.java) |
 | 9 | **Lamport Logical Timestamp Synchronization Engine** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_130011_lamport_logical_timestamp_sync/core.java) |
 | 10 | **Conflict-free Replicated Data Type (CRDT) PN-Counter** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_120235_conflict-free_replicated_data/core.java) |
-| 11 | **Vector Clock Distributed Event Ordering Mechanism** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_134609_vector_clock_distributed_event/engine.java) |
+| 11 | **Vector Clock Distributed Event Ordering Mechanism** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_134609_vector_clock_distributed_event/types.java) |
 | 12 | **Conflict-free Replicated Data Type (CRDT) PN-Counter** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_150313_conflict-free_replicated_data/core.java) |
 | 13 | **Quantitative Verification of Infinite-State Networks** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_045702_quantitative_verification_of_i/core.java) |
 | 14 | **Vector Clock Distributed Event Ordering Mechanism** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_060229_vector_clock_distributed_event/core.java) |
-| 15 | **HyperLogLog Cardinality Estimation Algorithm** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_130207_hyperloglog_cardinality_estima/engine.java) |
+| 15 | **HyperLogLog Cardinality Estimation Algorithm** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_130207_hyperloglog_cardinality_estima/types.java) |
 | 16 | **Vector Clock Distributed Event Ordering Mechanism** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_133554_vector_clock_distributed_event/core.java) |
-| 17 | **Red-Black Tree with Deterministic Balance Assertions** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_145051_red-black_tree_with_determinis/engine.java) |
+| 17 | **Red-Black Tree with Deterministic Balance Assertions** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_145051_red-black_tree_with_determinis/types.java) |
 | 18 | **A* Heuristic Pathfinding with Dynamic Obstacle Cost** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_154710_a__heuristic_pathfinding_with/core.java) |
 | 19 | **Lamport Logical Timestamp Synchronization Engine** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_161843_lamport_logical_timestamp_sync/core.java) |
-| 20 | **Vector Clock Distributed Event Ordering Mechanism** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_230721_vector_clock_distributed_event/engine.java) |
+| 20 | **Vector Clock Distributed Event Ordering Mechanism** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_230721_vector_clock_distributed_event/types.java) |
 | 21 | **Actor Model Concurrency Engine with Mailbox Processing** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_030454_actor_model_concurrency_engine/core.java) |
 | 22 | **LMAX Disruptor Ring Buffer Pattern** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_120720_lmax_disruptor_ring_buffer_pat/core.java) |
 | 23 | **LMAX Disruptor Ring Buffer Pattern** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_130756_lmax_disruptor_ring_buffer_pat/core.java) |
 | 24 | **Raft Consensus Protocol Leader Election State Engine** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_190211_raft_consensus_protocol_leader/core.java) |
 | 25 | **Raft Consensus Protocol Leader Election State Engine** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_230236_raft_consensus_protocol_leader/core.java) |
 | 26 | **Conflict-free Replicated Data Type (CRDT) PN-Counter** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_060442_conflict-free_replicated_data/core.java) |
-| 27 | **Java - All Algorithms implemented in Java** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_090933_java_-_all_algorithms_implemen/engine.java) |
+| 27 | **Java - All Algorithms implemented in Java** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_090933_java_-_all_algorithms_implemen/types.java) |
 | 28 | **Food Delivery Microservices** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_110201_food_delivery_microservices/core.java) |
-| 29 | **Raft Consensus Protocol Leader Election State Engine** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_150530_raft_consensus_protocol_leader/engine.java) |
+| 29 | **Raft Consensus Protocol Leader Election State Engine** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_150530_raft_consensus_protocol_leader/types.java) |
 | 30 | **Simultaneous Competitive and Regret Guarantees for TCP Acknowledgment** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261012_110117_simultaneous_competitive_and_r/core.java) |
 | 31 | **Breaking Two Barriers for Dynamic Planar Reachability** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261013_170116_breaking_two_barriers_for_dyna/core.java) |
 | 32 | **Quantum Laser Frequency Feedback Controller** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261014_130118_quantum_laser_frequency_controller/core.java) |
-| 33 | **Gossip Protocol Node Failure Detector** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261015_054626_gossip_protocol_node_failure_d/engine.java) |
-| 34 | **Actor Model Concurrency Engine with Mailbox Processing** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261015_130116_actor_model_concurrency_engine/engine.java) |
+| 33 | **Gossip Protocol Node Failure Detector** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261015_054626_gossip_protocol_node_failure_d/types.java) |
+| 34 | **Actor Model Concurrency Engine with Mailbox Processing** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261015_130116_actor_model_concurrency_engine/types.java) |
+| 35 | **Actor Model Concurrency Engine with Mailbox Processing** | java | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261016_070134_actor_model_concurrency_engine/types.java) |
 
 ---
 
@@ -83,4 +84,4 @@ mvn test
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-16 05:48 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-16 07:01 UTC*</sub>
