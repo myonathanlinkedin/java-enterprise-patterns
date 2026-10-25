@@ -1,0 +1,12 @@
+{
+  "topic": "Singular Value Decomposition (SVD) for Low-Rank Approximation",
+  "language": "Java",
+  "extension": ".java",
+  "category": "java",
+  "timestamp_utc": "2026-10-25T03:01:33.763188+00:00",
+  "source_file": "main.java",
+  "files": [
+    "core.java",
+    "main.java"
+  ]
+}
