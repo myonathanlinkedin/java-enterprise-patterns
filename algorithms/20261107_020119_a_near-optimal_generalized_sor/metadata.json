@@ -1,0 +1,12 @@
+{
+  "topic": "A Near-Optimal Generalized Sorting Algorithm",
+  "language": "Java",
+  "extension": ".java",
+  "category": "java",
+  "timestamp_utc": "2026-11-07T02:01:19.009487+00:00",
+  "source_file": "main.java",
+  "files": [
+    "core.java",
+    "main.java"
+  ]
+}
