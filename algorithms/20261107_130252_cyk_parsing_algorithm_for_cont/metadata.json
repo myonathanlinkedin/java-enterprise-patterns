@@ -1,0 +1,13 @@
+{
+  "topic": "CYK Parsing Algorithm for Context-Free Grammars",
+  "language": "Java",
+  "extension": ".java",
+  "category": "java",
+  "timestamp_utc": "2026-11-07T13:02:52.158929+00:00",
+  "source_file": "main.java",
+  "files": [
+    "types.java",
+    "engine.java",
+    "main.java"
+  ]
+}
