@@ -1,0 +1,12 @@
+{
+  "topic": "Distributed Consistent Hashing Router with Virtual Nodes",
+  "language": "Java",
+  "extension": ".java",
+  "category": "java",
+  "timestamp_utc": "2026-11-13T14:01:34.437005+00:00",
+  "source_file": "main.java",
+  "files": [
+    "core.java",
+    "main.java"
+  ]
+}
