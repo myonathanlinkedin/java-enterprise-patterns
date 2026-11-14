@@ -1,0 +1,13 @@
+{
+  "topic": "Mobile Storage Is a Distributed Systems Problem Wearing a Local API",
+  "language": "Java",
+  "extension": ".java",
+  "category": "java",
+  "timestamp_utc": "2026-11-14T01:02:31.003877+00:00",
+  "source_file": "main.java",
+  "files": [
+    "types.java",
+    "engine.java",
+    "main.java"
+  ]
+}
