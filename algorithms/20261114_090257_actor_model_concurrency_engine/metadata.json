@@ -1,0 +1,12 @@
+{
+  "topic": "Actor Model Concurrency Engine with Mailbox Processing",
+  "language": "Java",
+  "extension": ".java",
+  "category": "java",
+  "timestamp_utc": "2026-11-14T09:02:57.724777+00:00",
+  "source_file": "main.java",
+  "files": [
+    "core.java",
+    "main.java"
+  ]
+}
