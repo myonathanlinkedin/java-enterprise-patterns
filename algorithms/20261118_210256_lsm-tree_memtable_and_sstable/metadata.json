@@ -1,0 +1,12 @@
+{
+  "topic": "LSM-Tree MemTable and SSTable Flush Compaction Engine",
+  "language": "Java",
+  "extension": ".java",
+  "category": "java",
+  "timestamp_utc": "2026-11-18T21:02:56.592171+00:00",
+  "source_file": "main.java",
+  "files": [
+    "core.java",
+    "main.java"
+  ]
+}
