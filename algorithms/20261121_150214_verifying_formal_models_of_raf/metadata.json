@@ -1,0 +1,12 @@
+{
+  "topic": "Verifying formal models of Raft implementations",
+  "language": "Java",
+  "extension": ".java",
+  "category": "java",
+  "timestamp_utc": "2026-11-21T15:02:14.393156+00:00",
+  "source_file": "main.java",
+  "files": [
+    "core.java",
+    "main.java"
+  ]
+}
