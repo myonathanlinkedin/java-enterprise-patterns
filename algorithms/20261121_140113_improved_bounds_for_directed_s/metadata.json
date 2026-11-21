@@ -1,0 +1,13 @@
+{
+  "topic": "Improved Bounds for Directed SSSP in Sparse and Intermediate-Density Graphs",
+  "language": "Java",
+  "extension": ".java",
+  "category": "java",
+  "timestamp_utc": "2026-11-21T14:01:13.421305+00:00",
+  "source_file": "main.java",
+  "files": [
+    "types.java",
+    "engine.java",
+    "main.java"
+  ]
+}
