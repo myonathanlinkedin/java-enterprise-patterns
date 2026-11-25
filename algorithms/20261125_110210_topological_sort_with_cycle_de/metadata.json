@@ -1,0 +1,12 @@
+{
+  "topic": "Topological Sort with Cycle Detection in Directed Graphs",
+  "language": "Java",
+  "extension": ".java",
+  "category": "java",
+  "timestamp_utc": "2026-11-25T11:02:10.015236+00:00",
+  "source_file": "main.java",
+  "files": [
+    "core.java",
+    "main.java"
+  ]
+}
